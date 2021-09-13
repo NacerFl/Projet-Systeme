@@ -1,3 +1,4 @@
+Projet Architecture logicielle
 # INSTALL
 > **Executer la commande make pour pouvoir installer le projet.**
 # MODE D'EMPLOI
